@@ -59,6 +59,8 @@ Positioning of vials:
 Side view:
 ![SideView](https://github.com/laurenminer/GreenLightPads/assets/56128045/13b9bdce-1226-4e6d-a98c-60ce3f5fe089)
 
+Without top:
+![Lauren](https://github.com/CrickmoreRoguljaLabs/GreenLightpads/assets/56128045/044e4b02-2ff4-4889-b099-458d9684f026)
 
 Bottom view:
 ![BottomView](https://github.com/laurenminer/GreenLightPads/assets/56128045/4fdead63-02f8-4bbc-8551-d13a33eac1ee)
